@@ -1,4 +1,4 @@
-Tconst puppeteer = require("puppeteer");
+const puppeteer = require("puppeteer");
 const fs = require("fs");
 const downloader = require("image-downloader");
 
